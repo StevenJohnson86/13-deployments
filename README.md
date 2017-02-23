@@ -3,6 +3,8 @@
 # Lab 13: Heroku Deployment!
 *Let's get out blog app deployed on Heroku!*
 
+STEVEN'S DEPLOYED LAB ON HEROKU: https://protected-wildwood-41439.herokuapp.com/ 
+
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 Ready to share what you've made with the world? Yes!
